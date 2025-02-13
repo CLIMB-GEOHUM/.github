@@ -1,6 +1,8 @@
 # Climate-Induced Migration Analysis using Remote Sensing and Earth Observation
 
-![Project Logo](CLIMM222-1536x864.png) 🌍 📊 🌿
+![Project Logo](https://github.com/CLIMB-GEOHUM/.github/blob/47d109b65d87f736b6c9e97d4514174f54108fba/CLIMM222-1536x864.png) 🌍 📊 🌿
+
+
 
 ## 🚀 Overview
 This repository contains tools and scripts for analyzing climate-induced migration patterns using remote sensing and Earth observation data. The project leverages geospatial analysis and social data integration to identify and map migration drivers influenced by climate events.
