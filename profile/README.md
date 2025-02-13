@@ -20,7 +20,6 @@ This repository contains tools and scripts for analyzing climate-induced migrati
 - 🚫 **Limited adaptation capacity** due to poor infrastructure, financial constraints, and governance gaps.
 - 🧳 **Migration** emerges as a necessary response to escape deteriorating conditions.
 
-![Impact Chain](https://github.com/user-attachments/assets/66b090e0-ed4c-4ab7-bed2-1ff6f63b853d)
 
 ---
 ### 🤝 Contributing
