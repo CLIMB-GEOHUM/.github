@@ -1,7 +1,4 @@
-# Climate-Induced Migration Analysis using Remote Sensing and Earth Observation
-
 ![Project Logo](https://github.com/CLIMB-GEOHUM/.github/blob/47d109b65d87f736b6c9e97d4514174f54108fba/CLIMM222-1536x864.png) 🌍 📊 🌿
-
 
 
 ## 🚀 Overview
