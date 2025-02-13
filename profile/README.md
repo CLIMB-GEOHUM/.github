@@ -1,6 +1,6 @@
 # Climate-Induced Migration Analysis using Remote Sensing and Earth Observation
 
-![Project Logo](logo.png) 🌍 📊 🌿
+![Project Logo](CLIMM222-1536x864.png) 🌍 📊 🌿
 
 ## 🚀 Overview
 This repository contains tools and scripts for analyzing climate-induced migration patterns using remote sensing and Earth observation data. The project leverages geospatial analysis and social data integration to identify and map migration drivers influenced by climate events.
